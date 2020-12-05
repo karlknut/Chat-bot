@@ -1,2 +1,0 @@
-# Programmeerimine
-# Chat-bot
